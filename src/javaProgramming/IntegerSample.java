@@ -12,6 +12,7 @@ public class IntegerSample {
 			else {
 				for (int j = n[i]; j >= n[i+1]; j--) {
 					System.out.print( j + " ");
+					System.out.println(".....");
 				}
 			}
 		}
